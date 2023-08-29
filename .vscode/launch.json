@@ -4,8 +4,13 @@
     // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-        
+        {
+            "type": "java",
+            "name": "seminar2",
+            "request": "launch",
+            "mainClass": "seminar2",
+            "projectName": "Java_d2b9860"
+        },
         {
             "type": "java",
             "name": "Current File",

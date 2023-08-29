@@ -48,7 +48,7 @@ public class seminar1{
     }
 }*/
 
-/*3) Реализовать простой калькулятор (+-/*)*/
+/*3) Реализовать простой калькулятор (+-/*)
 
 import java.util.Scanner;
 
@@ -83,4 +83,4 @@ public class seminar1{
         } 
         sc.close();
     }
-}
+}*/
